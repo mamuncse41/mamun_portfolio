@@ -27,10 +27,10 @@
  
 <section class="two" id="gallery" >
  <div class="gallery">
-     <a href="images/ismail.jpg" data-lightbox="mygallery" data-title="ismail"><img src="images/ismail.jpg" alt="ismail"></a> 
-     <a href="images/bitm1.jpg" data-lightbox="mygallery" data-title="bitm-image"><img src="images/bitm1.jpg" alt="Bitm_friends"></a> 
-    <a href="images/aub1.JPG" data-lightbox="mygallery" data-title="AUB"><img src="images/aub1.JPG" alt="friends"></a>
-    <a href="images/comming-soon.png" data-lightbox="mygallery" data-title="comming-soon"><img src="images/comming-soon.png" alt="comming-soon" style="height:231px;"></a>
+     <a href="images/ismailmamun.jpg" data-lightbox="mygallery" data-title="ismail"><img src="images/ismailmamun.jpg" alt="ismail" height="150px;"></a> 
+     <a href="images/bitm1.jpg" data-lightbox="mygallery" data-title="bitm-image"><img src="images/bitm1.jpg" alt="Bitm_friends" height="150px;"></a> 
+    <a href="images/aub1.JPG" data-lightbox="mygallery" data-title="AUB"><img src="images/aub1.JPG" alt="friends" height="150px;"></a>
+    <a href="images/comming-soon.png" data-lightbox="mygallery" data-title="comming-soon"><img src="images/comming-soon.png" alt="comming-soon" style="height:231px;" height="150px;"></a>
      
  </div>
 

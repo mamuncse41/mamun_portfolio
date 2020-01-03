@@ -21,7 +21,7 @@
 </section>
 <section id="cv" class="three" style="padding-top:2px;">
 
-   <embed src="images/Ismail_CSE Graduate.pdf" type="application/pdf" style="width: 100%; height: 600px" />
+   <embed src="images/Ismail_CSE Graduated.pdf" type="application/pdf" style="width: 100%; height: 600px" />
 							
 </section>
 

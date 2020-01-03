@@ -8,8 +8,7 @@
 	<div class="container">
 
 		<header>
-			<!-- <h2>Work Experience & Skills</h2> -->
-			<h2>Education & Skills</h2>
+			<h2>Work Experiences & Skills</h2>
 			<hr>
      
           <button class="btn btn-danger btn-lg" id="gotodown"><span class="fa fa-chevron-down" ></span></button>
@@ -22,13 +21,28 @@
 	<div class="row">
 		<div class="6u 12u$(mobile)" >
 		
-			 <h4 class="btn btn-danger btn-lg" style="pointer-events: none"> Education</h4>
+			 <h4 class="btn btn-danger btn-lg" style="pointer-events: none"> Works</h4>
 			 <hr>
 			 <h5 class="btn btn-info" style="pointer-events: none"><strong>Duration :</strong> 3-month(s) </h5>
-			 <h4> WEB APP DEVELOPMENT</h4>
-			 <h4>BASIS Institute of Technology & Management (BITM)  </h4>
+			 <h4> Web Developer Inter</h4>
+			 <h4>IONIC Corporation</h4>
+       <h4> Jatrabari, Dhaka</h4>
 			 
 			 <hr>
+       <h5 class="btn btn-info" style="pointer-events: none"><strong>Duration :</strong>  ( 27 March 2019 -Continuing )</h5>
+       <h4>Software Develope</h4>
+       <h4>Universal IT Solution </h4>
+       <h4>3/3 South Kallyanpur,Eastern Housing Project-2 Plot, Dhaka </h4>
+       <hr/>
+       <h4 class="btn btn-danger btn-lg" style="pointer-events: none"> Professional Training:</h4>
+       <h5 class="btn btn-info" style="pointer-events: none"><strong>Duration :</strong> 3-month(s</h5>
+       <h4>WEB APP DEVELOPMENT </h4>
+       <h4>BASIS Institute of Technology & Management (BITM)</h4>
+       <h4>BDBL Bhaban, 12, Kazi Nazrul Islam Ave, Dhaka-1215</h4>
+       <hr>
+    
+       <h4 class="btn btn-danger btn-lg" style="pointer-events: none">Education:</h4>
+       <hr>
 			 <h5 class="btn btn-info" style="pointer-events: none"><strong>Passing Year :</strong> 2016</h5>
 			 <h4>B.Sc</h4>
 			 <h4>Computer Science & Engineering(CSE)</h4>
@@ -59,6 +73,18 @@
     HTML5/CSS3
   </div>
 </div>
+<div class="progress">
+  <div class="progress-bar progress-bar-striped active progress-bar-info" role="progressbar"
+  aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+    C/C++
+  </div>
+</div>
+<div class="progress">
+  <div class="progress-bar progress-bar-striped active progress-bar-danger" role="progressbar"
+  aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+    Java/Python
+  </div>
+</div>
  <div class="progress">
   <div class="progress-bar progress-bar-striped active " role="progressbar"
   aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:70%">
@@ -85,6 +111,13 @@
   aria-valuenow="35" aria-valuemin="0" aria-valuemax="100" style="width:60%">
   Laravel
   </div>
+</div>
+   <div class="progress">
+  <div class="progress-bar progress-bar-striped  active progress-bar-info" role="progressbar"
+  aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width:60%">
+ Codeigniter
+  </div>
+  
 </div>
 
 <h3>CMS</h3> 

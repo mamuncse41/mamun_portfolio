@@ -42,8 +42,8 @@ card {background: #FFF none repeat scroll 0% 0%; box-shadow: 0px 1px 3px rgba(0,
     <!-- Tab panes -->
     <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="home">
-           <img src="images/programming.jpg"   class="img-responsive img-thumbnail" alt="programming" /><hr>
-           <img src="images/course.jpg"   class="img-responsive img-thumbnail" alt="course" />
+           <img src="images/Basis.jpg"   class="img-responsive img-thumbnail" alt="programming" /><hr>
+          <!--  <img src="images/course.jpg"   class="img-responsive img-thumbnail" alt="course" /> -->
         </div>
         <div role="tabpanel" class="tab-pane" id="profile">
            <img src="images/B.Sc.jpg"   class="img-responsive img-thumbnail" alt="mbs" /><hr>

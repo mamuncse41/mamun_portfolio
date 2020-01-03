@@ -29,9 +29,9 @@
 				<div id="logo">
 					<span class="image avatar48">
 						<img src="images/300 into 300px.jpg" alt="ismail">
-					</span>
+					</span><br/>
 					<h1 id="title">Md Ismail Hossain</h1>
-					<p>Web Designer & Developer<br> </p>
+					<p ><b style="color: gray; font-size: 14px;">Software Developer & Designer</b><br> </p>
 				</div>
 				<hr>
 			<!-- Nav -->
@@ -76,7 +76,7 @@
 						</li>
 						
 						
-						<li>
+						<li style="display: none;">
 							
 							<a href="comment.php" id="comment-link" class="skel-layers-ignoreHref " act="#comment"><span class="icon fa-comment">Discussion</span></a>
 						</li>

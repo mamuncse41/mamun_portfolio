@@ -88,7 +88,8 @@
                             </div>
                             <div id="faq-cat-1-sub-2" class="panel-collapse collapse">
                                 <div class="panel-body text-center">
-                                  ismail.mamun111@gmail.com
+                                  ismail.mamun111@gmail.com<br/>
+                                  ismailmamun14@gmail.com
                                 </div>
                             </div>
                         </div>
